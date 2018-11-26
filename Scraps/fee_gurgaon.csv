@@ -1,0 +1,49 @@
+school_name,school_class,school_transp,school_reg,school_dev,school_annual,school_moreinfo
+GU1860,playway,10000,2500,9000,108250,http://s3.ap-south-1.amazonaws.com/schoolconnects.in/files/schooldocs/WhatsApp%20Image%202017-08-29%20at%206.57.05%20PM.jpeg
+GU1860,primary,10000,2500,9000,109900,http://s3.ap-south-1.amazonaws.com/schoolconnects.in/files/schooldocs/WhatsApp%20Image%202017-08-29%20at%206.57.05%20PM.jpeg
+GU1860,secondary,10000,2500,9000,112200,http://s3.ap-south-1.amazonaws.com/schoolconnects.in/files/schooldocs/WhatsApp%20Image%202017-08-29%20at%206.57.05%20PM.jpeg
+GU1860,higher,10000,2500,9000,114700,http://s3.ap-south-1.amazonaws.com/schoolconnects.in/files/schooldocs/WhatsApp%20Image%202017-08-29%20at%206.57.05%20PM.jpeg
+GU1222,playway,12000,0,20000,57000,http://www.bluebells.org/bbms/?page_id=203
+GU1222,primary,12000,0,20000,57000,http://www.bluebells.org/bbms/?page_id=203
+GU1222,secondary,12000,0,20000,57000,http://www.bluebells.org/bbms/?page_id=203
+GU1222,higher,12000,0,20000,57000,http://www.bluebells.org/bbms/?page_id=203
+GU1694,playway,14040,1000,85000,138363,http://www.dpsgurgaon.org/page.php?catID=68
+GU1694,primary,14040,1000,85000,138363,http://www.dpsgurgaon.org/page.php?catID=68
+GU1694,secondary,14040,1000,85000,138363,http://www.dpsgurgaon.org/page.php?catID=68
+GU1694,higher,14040,1000,85000,141663,http://www.dpsgurgaon.org/page.php?catID=68
+GU700,playway,15000,1500,35000,165000,http://shikshantarschool.com/admission/fee-structure/
+GU700,primary,15000,1500,45000,175000,http://shikshantarschool.com/admission/fee-structure/
+GU700,secondary,15000,1500,50000,180000,http://shikshantarschool.com/admission/fee-structure/
+GU700,higher,15000,1500,50000,185000,http://shikshantarschool.com/admission/fee-structure/
+GU1053,playway,0,1500,75000,118752,http://www.suncityschool.in/suncity-school/fee-structure.php
+GU1053,primary,0,1500,75000,147540,http://www.suncityschool.in/suncity-school/fee-structure.php
+GU1053,secondary,0,1500,75000,147540,http://www.suncityschool.in/suncity-school/fee-structure.php
+GU1053,higher,0,1500,75000,191136,http://www.suncityschool.in/suncity-school/fee-structure.php
+GU1718,playway,19440,2500,0,84000,NOT AVAILABLE
+GU1718,primary,19440,2500,0,92000,NOT AVAILABLE
+GU1718,secondary,19440,2500,0,116000,NOT AVAILABLE
+GU1718,higher,0,2500,0,122000,NOT AVAILABLE
+GU767,playway,0,1000,10000,200000,http://www.shriramglobalschool.org/pdf/fee-2.pdf
+GU767,primary,0,1000,10000,200000,http://www.shriramglobalschool.org/pdf/fee-2.pdf
+GU767,secondary,0,1000,10000,200000,http://www.shriramglobalschool.org/pdf/fee-2.pdf
+GU767,higher,0,1000,10000,254500,http://www.shriramglobalschool.org/pdf/fee-2.pdf
+GU599,playway,24200,5000,0,53900,http://www.dpsiedge.edu.in/upload/2018/Feb/469010-1519207482.pdf
+GU599,primary,24200,5000,0,62700,http://www.dpsiedge.edu.in/upload/2018/Feb/469010-1519207482.pdf
+GU599,secondary,24200,5000,0,62700,http://www.dpsiedge.edu.in/upload/2018/Feb/469010-1519207482.pdf
+GU599,higher,24200,5000,0,105000,http://www.dpsiedge.edu.in/upload/2018/Feb/469010-1519207482.pdf
+GU1795,playway,21000,10000,50000,240000,http://www.amityglobalschool.com/noida/pdf/Fee-structure.pdf
+GU1795,primary,21000,10000,50000,300000,http://www.amityglobalschool.com/noida/pdf/Fee-structure.pdf
+GU1795,secondary,21000,10000,50000,378000,http://www.amityglobalschool.com/noida/pdf/Fee-structure.pdf
+GU1795,higher,21000,10000,50000,385000,http://www.amityglobalschool.com/noida/pdf/Fee-structure.pdf
+GU516,playway,0,2000,50000,82140,https://www.scottishigh.com/admissions/fee-structure/
+GU516,primary,0,2000,50000,79396,https://www.scottishigh.com/admissions/fee-structure/
+GU516,secondary,0,2000,50000,165596,https://www.scottishigh.com/admissions/fee-structure/
+GU516,higher,0,2000,50000,217144,https://www.scottishigh.com/admissions/fee-structure/
+GU1958,playway,10000,1000,5000,22905,http://www.shalomhills.com/fee-structure.html
+GU1958,primary,10000,1000,5000,22905,http://www.shalomhills.com/fee-structure.html
+GU1958,secondary,10000,1000,5000,23866,http://www.shalomhills.com/fee-structure.html
+GU1958,higher,10000,1000,5000,24196,http://www.shalomhills.com/fee-structure.html
+GU1320,playway,11500,7000,30000,104800,https://shivnadarschool.edu.in/website/wp-content/uploads/2014/08/Fee-Structure_15-16_SNS_Gurgaon.pdf
+GU1320,primary,11500,7000,30000,130800,https://shivnadarschool.edu.in/website/wp-content/uploads/2014/08/Fee-Structure_15-16_SNS_Gurgaon.pdf
+GU1320,secondary,11500,7000,30000,146000,https://shivnadarschool.edu.in/website/wp-content/uploads/2014/08/Fee-Structure_15-16_SNS_Gurgaon.pdf
+GU1320,higher,11500,7000,30000,146000,https://shivnadarschool.edu.in/website/wp-content/uploads/2014/08/Fee-Structure_15-16_SNS_Gurgaon.pdf

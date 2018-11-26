@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<!-- saved from url=(0038)http://localhost/Minor/school_form.php -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>School Registration Form</title>
+	<style type="text/css">
+		
+		.side-nav {
+			width: 60%;
+			height: 100%;
+			position: absolute;
+			margin-left: 20%;
+			overflow: scroll;
+			background: rgb(249,249,249);
+			text-align: center;
+		}
+		.side-nav input{
+			width: 100%;
+			height: auto;
+			padding: 10px;
+			outline: none;
+		}
+		.side-nav table{
+			width: 100%;
+			height: auto;
+			text-align: center;
+			padding: 10px;
+			border: 1px solid black;
+		}
+
+		.side-nav button{
+			padding: 5px;
+			outline: none;
+			display: block;
+			color: white;
+			font-size: 14px;
+			border-radius: 5px;
+			background: #2d2d2d;
+			left: 0px;
+			cursor: pointer;
+
+		}
+
+	</style>
+</head>
+<body>
+	<form method="post" action="http://localhost/Minor/school_form.php#">
+		<div class="side-nav">
+		  <h3>School Registration Form</h3>
+		  <p>-------------------------------------------------</p>
+		  <table cellspacing="10">
+		  	<tbody><tr>
+		  		<td>
+		            <input type="text" name="school_name" placeholder="School Name">
+		  		</td>
+		  		
+		  	</tr>
+		  	<tr>
+		  		<td>
+		            <input type="text" placeholder="Address" name="school_address">
+		  		</td>
+		  	</tr>
+		  	<tr>
+		  		<td>
+		  <input type="number" name="school_name" placeholder="Contact +91">
+		  		</td>
+		  	</tr>
+		  	<tr>
+		  		<td>
+		  			<input type="text" name="school_website" placeholder="School&#39;s Website Url:eg.www.example.com"> 
+		  		</td>
+		  		<td>
+		  			<select>
+				  	<option default="true">Select-City</option>
+				  	<option>Delhi</option>
+				  	<option>Noida</option>
+				  	<option>Gurgaon</option>
+				  	<option>Ghaziabad</option>
+		  			</select>
+		  		</td>
+		  	</tr>
+		  	<tr>
+		  		<td colspan="2">
+		  			<button onclick="getLocation()" type="button">Give Geo Location</button>
+
+		  			<p id="demo" name="demo"></p>
+
+					<script>
+					var x = document.getElementById("demo");
+					function getLocation() {
+					    if (navigator.geolocation) {
+					        navigator.geolocation.getCurrentPosition(showPosition);
+					        
+
+					    } else { 
+					        x.innerHTML = "Geolocation is not supported by this browser.";
+					    }
+					}
+
+					function showPosition(position) {
+					    x.innerHTML =position.coords.latitude + 
+					    "," + position.coords.longitude;
+					}
+					</script>
+		  		</td>
+		  	</tr>
+		  	<tr>
+		  		<td>
+		  			<p align="left">Upload School Image</p>
+		  			<input type="file" name="school_image" id="school_image" placeholder="Upload School Image">
+		  		</td>
+		  		<td>
+		  			<select>
+		  				<option default="true">Select Board</option>
+		  				<option>
+		  					CBSE
+		  				</option>
+		  				<option>
+		  					ICSE
+		  				</option>
+		  				<option>
+		  					IGCSE
+		  				</option>
+		  				<option>
+		  					UP
+		  				</option>
+		  			</select>
+		  		</td>
+		  	</tr>
+		  </tbody></table>
+		  <p>------------------------------------------InfraStructure Details---------------------------------------------</p>
+		  <table cellspacing="10">
+		  	<tbody><tr>
+		  		<td>
+		  			<select>
+		  				<option default="true">Library</option>
+		  				<option>Available</option>
+		  				<option>Not Available</option>
+		  			</select>
+		  		</td>
+		  		<td>
+		  			<input type="text" name="school_sports" placeholder="Sports separated by ,eg.Hockey,FootBall">
+		  		</td>
+		  	</tr>
+		  </tbody></table>
+
+	    </div>
+	</form>
+	
+
+</body></html>
